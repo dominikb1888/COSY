@@ -16,6 +16,13 @@ Reading:
 
 # Part 2 - The History and Science of Public Health Informatics | Core Literature, Part I
 
+- Knowledge Pyramid
+- Decision-making under uncertainty
+- Heuristics and Cognitive Biases:
+    - https://helpfulprofessor.com/heuristics-examples-types/
+    - https://en.wikipedia.org/wiki/List_of_cognitive_biases
+    - https://brill.com/display/book/edcoll/9783969750056/BP000016.xml
+
 - https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=27
 
 
