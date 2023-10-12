@@ -1,6 +1,6 @@
 # COSY
 
-Core Literature: https://github.com/dominikb1888/COSY/edit/main/README.md
+Core Literature: [Public Health Informatics and Information Systems](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514)
 
 # Part 1 - Collaboration, Organization and Complex Systems (Own Material)
 
@@ -10,7 +10,11 @@ Core Literature: https://github.com/dominikb1888/COSY/edit/main/README.md
 4. Digital Ecosystems
 5. Forms of Organizing in Digital Ecosystems
 
-# Part 2 - The History and Science of Public Health Informatics | [Core Literature, Part I]()
+Reading:
+- https://link.springer.com/chapter/10.1007/978-3-658-06123-4_5
+- https://link.springer.com/chapter/10.1007/978-3-658-06123-4_6
+
+# Part 2 - The History and Science of Public Health Informatics | [Core Literature, Part I](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=27)
 
 # Part 3 - Public Health Information Systems | [Core Literature, Part II
 ](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=87)
