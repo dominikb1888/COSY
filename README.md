@@ -26,8 +26,30 @@ Reading:
 - https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=27
 
 
-# Part 3 - Public Health Information Systems | [Core Literature, Part II
-](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=87)
+# Part 3 - Public Health Information Systems | [Core Literature, Part II](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=87)
+
+## 3a
+-  Information Architecture for Public Health
+    - https://ohie.org/framework/
+    - https://openhie.github.io/instant/
+    - https://github.com/openhie/instant
+      
+-  Data Sources and Data Tools: Preparing for the Open Health Ecosystem
+
+## 3b
+-  Public Health Information Standards
+      - HL7
+      - ICD 10
+      - Snomed CT
+## 3c
+- Public Health Information Standards
+    - HL7 FHIR
+
+## 3d
+- Electronic Health Records: Origination, Adoption, and Progression
+- Public Health Analytics and Big Data
+- Project Management and Public Health Informatics
+
 
 # Part 4 - Public Health Information Systems Challenges and Solutions | [Parts III and IV]()
 
