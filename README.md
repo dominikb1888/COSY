@@ -1,6 +1,7 @@
 # COSY
 
 Core Literature: [Public Health Informatics and Information Systems](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514)
+Intro to Python: [Teach yourself Python Visually](https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=7050413)
 
 # Part 1 - Collaboration, Organization and Complex Systems (Own Material)
 
