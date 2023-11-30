@@ -7,11 +7,11 @@
 
 # Part 1 - Collaboration, Organization and Complex Systems (Own Material)
 
-1. Forms of Organization
-2. Data, Information, Knowledge and Wisdom
-3. Complexity and Chaos
-4. Digital Ecosystems
-5. Forms of Organizing in Digital Ecosystems
+- [x] Forms of Organization
+- [x] Data, Information, Knowledge and Wisdom
+- [x] Complexity and Chaos
+- [x] Digital Ecosystems
+- [x] Forms of Organizing in Digital Ecosystems
 
 Reading:
 - https://link.springer.com/chapter/10.1007/978-3-658-06123-4_5
@@ -19,41 +19,60 @@ Reading:
 
 # Part 2 - The History and Science of Public Health Informatics | Core Literature, Part I
 
-- Knowledge Pyramid
-- Decision-making under uncertainty
-- Heuristics and Cognitive Biases:
+- [x] Knowledge Pyramid
+- [x] Decision-making under uncertainty
+- [x] Heuristics and Cognitive Biases:
     - https://helpfulprofessor.com/heuristics-examples-types/
     - https://en.wikipedia.org/wiki/List_of_cognitive_biases
     - https://brill.com/display/book/edcoll/9783969750056/BP000016.xml
 
+Reading:
 - https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=27
 
 
 # Part 3 - Public Health Information Systems | [Core Literature, Part II](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=87)
 
-## 3a
--  Information Architecture for Public Health
+## 3a - Architectures, Systems, and Data Sources
+
+-  [x] Information Architecture for Public Health
     - https://ohie.org/framework/
     - https://openhie.github.io/instant/
     - https://github.com/openhie/instant
       
--  Data Sources and Data Tools: Preparing for the Open Health Ecosystem
+- [x] Data Sources and Data Tools: Preparing for the Open Health Ecosystem
+    -> Using SAAS Tools to build data gathering applications (Google Sheets, Zapier, Airtable, Slack,...)
+    -> Combine with existing Data Sources or Web Apis     
 
-## 3b
--  Public Health Information Standards
-      - HL7
-      - ICD 10
-      - Snomed CT
-## 3c
-- Public Health Information Standards
-    - HL7 FHIR
+Reading:
+- https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=88
+- https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=110
+- [Chapter 17](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=292)
 
-## 3d
-- Electronic Health Records: Origination, Adoption, and Progression
-- Public Health Analytics and Big Data
-- Project Management and Public Health Informatics
+## 3b - Public Health Information Standards
+
+- [ ] HL7
+- [ ] ICD 10
+- [ ] Snomed CT
+- [ ] HL7 FHIR
+
+      
+Reading:
+- https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=133
+- [Chapter 18](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6311514&ppg=308)
 
 
-# Part 4 - Public Health Information Systems Challenges and Solutions | [Parts III and IV]()
+## 3c - Publicat Health Applications and Case Studies
 
-# Part 5 - Hands-on Information Systems Implementation
+- [ ] 11: Electronic Health Records: Origination, Adoption, and Progression
+- [ ] 14: Informatics in Disease Prevention and Epidemiology
+- [ ] 15: Public Health Laboratories
+- [ ] 16: Syndromic Surveillance: A Practical Application of Informatics
+- [ ] 19: Geographic Information Systems
+- [ ] 20: Public Health Decision Support Systems
+
+- [ ] (12: Public Health Analytics and Big Data)
+- [ ] (13: Project Management and Public Health Informatics)
+
+# Part 4 - Hands-on Information Systems Implementation
+
+See [](bloglist_auto.md) for an overview on all projects.
