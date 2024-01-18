@@ -50,10 +50,10 @@ Reading:
 
 ## 3b - Public Health Information Standards
 
-- [ ] HL7
+- [x] HL7
 - [ ] ICD 10
 - [ ] Snomed CT
-- [ ] HL7 FHIR
+- [x] HL7 FHIR
 
       
 Reading:
